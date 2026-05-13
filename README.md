@@ -33,7 +33,7 @@ Learn more at [**sgraal.com**](https://sgraal.com):
 
 ## Status legend
 
-- **Production** — substantive integration, tests in the upstream core repo, used in production by team-internal agents.
+- **Production** — substantive integration with tested wrapper surface and field-tested patterns.
 - **Beta** — thinner integration (typically <50 LOC); functional but a smaller wrapper surface. Re-classified per the project's [SDK tier reframe](https://github.com/sgraal-ai/sdks).
 
 ## License
