@@ -31,6 +31,7 @@ result = tool.invoke({
     "domain": "fintech",
 })
 print(result)
+# IP-CI-ALLOW: illustrative Ω values in README code example, not calibrated production thresholds
 # "SAFE (Ω=12.4): Memory is reliable. Proceed."
 # or "BLOCKED (Ω=82.1): High risk. Do NOT proceed."
 ```
